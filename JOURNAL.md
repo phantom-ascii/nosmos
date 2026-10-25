@@ -13,4 +13,14 @@ not really anything interesting to say.i cloned the project from github to my lo
 
 **Total time spent: 10 mins**
 
+# 25.10.26 Initialized the repository and started to set up the project
+Well that took a while. Ive never used onshape properly before and whilst onb this topic i am SO bad at 3d cad so welp. Fristly i got a box that is 256 x 256 x 256 which would show what area i would need to keep free for actual prints(hence the print volum is 256mm*3). I took a while to get the 3d models for the 2020 extrusions and then made a few different parts to use in my assembly including 400mm 370mm and 440mm of 2020 extrusions. I also got a stepper motor model from grabcad community library to use in the future. i put all the extrusions in a folder in onshape for doc cleanliness and then started the assembly and holy shit i didnt know what i was doing. firstly i stacked a 256x256x5 plate under the print volume box as a placeholder for the base plate. (i choose 256xxx as its the bambu a1 size so i can source the parts from replacment a1 parts like the heated base or base plate). i then tried mate connectors last night to make an equal rectangle base with the 400 x 370mm rectangle extrusions and i just couldnt last night. i decided to go sleep as it was like flipping 2am and today morning (i 4got to lapse this) i managed to get the mate connectors to work:
+
+![image](./images/journal/2.png)
+
+
+**Total time spent: 1 hour 30 mins**
+
+
+
 
