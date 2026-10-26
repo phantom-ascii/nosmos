@@ -21,6 +21,20 @@ Well that took a while. Ive never used onshape properly before and whilst onb th
 
 **Total time spent: 1 hour 30 mins**
 
+# 26.10.26 Added the base rails (MGN12) and the blocks (MGN12H)
+OH MY DAYS MATE CONNECTORS ARE SO EASY AND SICKKK... but it took me like an hour of watching yt vids to learn how to use them. Anyways firstly i added both rails on he top part of the left and right base extrusions. These will hold the sliding blocks (i chose MGN12H for rigidity (is that a word ??)) and will let the base plate slide on the y 3d printing axis. Importing the rails was easy enough but getting the blocks to slide cleanly was not easy enough :( For the rails i just fasten matted them to the top part of the extrusions and the blocks i used a sliding mate which yh took me a while to learn how to use. I also made my onshape document clean by sorting everything in to subassemblies(the block cause it came in like a bajillion parts) and folders. Hopefully that made the onshape doc look less like a mess. ANYWAYS hers so *eyecandy*:
+
+![image](./images/journal/3.png)
+![image](./images/journal/4.png)
+![image](./images/journal/5.png)
+
+The lapse doesn't match with the time by a bit cause i forgot to lapse (only like a 5-10 min difference tho)
+
+I kept two blocks on each rail so the bed doesnt wobble(its gonna be 256x256 so if i only use one block it might see-saw whilst printing and that no good).
+
+**Total time spent: 1 hour**
+
+
 
 
 
